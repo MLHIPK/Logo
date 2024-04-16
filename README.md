@@ -1,0 +1,2 @@
+# Logo
+Anasayfanın hazırlanması
