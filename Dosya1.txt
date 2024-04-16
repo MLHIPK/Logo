@@ -1,0 +1,2 @@
+İlk dosya ekleme işlemi
+Pull request oluşturma işlemim
